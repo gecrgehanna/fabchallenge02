@@ -135,7 +135,17 @@ The initial idea was to make a controllable lamp, which slowly turned into a fla
 
 <img src="/3d-errors.jpg" width ="100%">
 
-We also had a hard time with the 3d printed piece, attempting different type of joints between the motor and the disk before we finally got it right.
+The electronical iterations involved:
+<li>Replaced Solid State Relay</li>
+<li>Added multiplier into Arduino script</li>
+<li>Switched Potenciometer with Mosfet</li>
+<li>Fixed short circuit in 220VAC-5VDC adapter.</li>
+<li>Added resistor 220 Ohm to slow down the disk rotations. Failed. </li>
+<li>Added resistor 10 Ohm to slow down the disk rotations. Not enough. </li>
+<li>Added resistor 33 Ohm to slow down the disk rotations.</li>
+
+  
+  We also had a hard time with the 3d printed piece, attempting different type of joints between the motor and the disk before we finally got it right.
 
 ### FINAL PRODUCT PHOTOS
 
