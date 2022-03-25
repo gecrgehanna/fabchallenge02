@@ -136,3 +136,5 @@ The initial idea was to make a controllable lamp, which slowly turned into a fla
 We also had a hard time with the 3d printed piece, attempting different type of joints between the motor and the disk before we finally got it right.
 
 ### FINAL PRODUCT PHOTOS
+
+<img src="flower.gif" width ="100%">
