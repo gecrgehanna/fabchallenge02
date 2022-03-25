@@ -42,15 +42,22 @@ The artifact is made out of 3 main parts, all inter-conncted with each other. We
 
 #### FIRST PART: FIGURES
 
+<img src="/zoetrope component-02" width ="100%">
+
+
 The single pieces (aka frames) that make up the whole animations. These pieces can be 3d-printed, laser cut or molded, as long as they fit perfect in the holes (6mm diameter) of the disk and wouldn’t fly off when the disk is rotating.
 
 The nice part about these pieces is that they can be replaced with different sets that can be designed and fabricated.
 
 #### SECOND PART: DISK
 
+<img src="/zoetrope component-03-min" width ="100%">
+
 The disk is a circular wooden piece, with 12 holes around the edge of it to fit each figure, and a hole in the middle that would allow the connection to the lower electronic part of the artifact.
 
 #### THIRD PART: CIRCUIT
+
+<img src="/zoetrope component-04" width ="100%">
 
 Finally, the circuit consists of a motor and a light (that has strong exposure and that can be manipulated into flashing on and off). These are pieced together and connected to a power source, all hidden inside the basic square box on which the disk is mounted.
 
