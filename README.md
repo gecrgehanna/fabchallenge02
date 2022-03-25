@@ -71,6 +71,9 @@ Finally, the whole artifact wouldn’t work without the electronic board, which 
 
 Firstly, we tried to 3d print the little figurines that were to be inserted in the disk holes, however, we realized that it was a time consuming process that wouldn’t really allow us to experiment with other shapes and figures. Which is why we resorted to laser cutting as we could be more efficient with out experimentation.
 
+<img src="process2.png" width ="100%">
+
+
 ### DESIGN BOUNDARIES
 
 Initially, we would have preferred to 3d print more volumetric figures, but we were restricted with the time and our design capabilities that would allow us to produce a continuous flow of animation and freeze the frames we need from it. Not to mention that the 3d printing really takes time, and wouldn’t allow us to test the functionality.  Other than that, we had some issues with the 3d component piece that connects the motor to the disk. As much as we tried to measure and create tolerance for the holes to fit properly, we still had some trouble assembling.  This was specifically hard due to the necessity of having the rotational movement completely balanced and horizontal; any little flaw in the contact and assembly can produce an angle we wouldn’t want that would ruin the animation flow. 
@@ -101,6 +104,8 @@ This project joins our collaborative list of toys made for emergent contexts. So
 *step 1*
 Cutting the Disk with CNC.
 
+<img src="process1.png" width ="100%">
+
 *step 2*
 Laser cut / 3d print / manually sculpt / mold and cast the design of the figures.
 P.S: They have to be 12 pieces that make an animation when put together, 5 cm tall, with joints at the bottom that are 9mm (height) and 6mm (thickness).
@@ -110,6 +115,9 @@ P.S: They have to be 12 pieces that make an animation when put together, 5 cm ta
 
 *step 4*
 Connect the circuit using the Motor, solder the circuit complete. And then attach the motor to the hole in the 3d adapter piece, which should be inserted in the disk central hole.
+
+<img src="process3.png" width ="100%">
+
 
 *step 5*
 Using Arduino and the knob mounted on the circuit, adjust the flash rate to the speed of the motor in a way that would create a flowy harmonious animation.
