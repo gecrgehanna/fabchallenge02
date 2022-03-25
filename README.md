@@ -129,6 +129,8 @@ Using Arduino and the knob mounted on the circuit, adjust the flash rate to the 
 
 ### ITERATION PROCESS + PROBLEMS
 
+<img src="cuteled.gif" width ="100%">
+
 The initial idea was to make a controllable lamp, which slowly turned into a flashing object/toy and then we discovered zoetropes and the possibility of them being in 3D. We tested several ways to produce the figurines, we tried 3d printing them, however they were too thin given our scale.
 
 <img src="/3d-errors.jpg" width ="100%">
