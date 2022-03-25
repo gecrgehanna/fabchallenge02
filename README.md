@@ -124,7 +124,7 @@ Using Arduino and the knob mounted on the circuit, adjust the flash rate to the 
 
 ### DESIGN FILES
 
-Find them here. [a link](zoetrope_design files).
+[Find them here.](https://github.com/gecrgehanna/fabchallenge02/tree/main/zoetrope_design%20files)
 
 
 ### ITERATION PROCESS + PROBLEMS
