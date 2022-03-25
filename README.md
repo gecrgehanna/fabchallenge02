@@ -10,6 +10,8 @@ Our group is formed of 3 members: George, Kai and Ruben. We have already formed 
 
 We have decided to use this collaboration to create yet another artifact in our toy collection, and we ended up deciding on making a zoetrope, but giving it a more custom/DIY approach.
 
+<img src="/interests.png" width ="100%">
+
 ### PURPOSE
 
 Our zoetrope, is supposed to present 12-frame animations using a strobe light and a rotating disk where the singular “frames” of animation can be attached.
@@ -19,6 +21,8 @@ From a toy mindset, the zoetrope could also serve as a puzzle that requires the 
 ### PLANNING
 
 We had a more or less clear way to execute the artifact, taking into considerations the different steps of the process that would need to be assembled eventually.
+
+<img src="/schedule.png" width ="100%">
 
 *First day* was dedicated to identify the concept and start sketching out our animation frames.
 
