@@ -1,5 +1,7 @@
 # fabchallenge02 - ZOETROPE PUZZLE
 
+![](zoetrope drawing-02.png)
+
 ## IDEATION
 
 ### INITIAL IDEA + CONCEPT
@@ -24,7 +26,7 @@ We had a more or less clear way to execute the artifact, taking into considerati
 
 *Third day* is to finalize the mechanisms and test out the rotation of the disk and how it works with out circuit, and to finalize the execution of the animation frames.
 
-*Fourth day* is for tuning, synchronizing the artifact, and documenting. 
+*Fourth day* is for tuning, synchronizing the artifact, and documenting.
 
 ### DIAGRAM
 
@@ -35,11 +37,11 @@ The artifact is made out of 3 main parts, all inter-conncted with each other. We
 
 #### FIRST PART: FIGURES
 
-The single pieces (aka frames) that make up the whole animations. These pieces can be 3d-printed, laser cut or molded, as long as they fit perfect in the holes (6mm diameter) of the disk and wouldn’t fly off when the disk is rotating. 
+The single pieces (aka frames) that make up the whole animations. These pieces can be 3d-printed, laser cut or molded, as long as they fit perfect in the holes (6mm diameter) of the disk and wouldn’t fly off when the disk is rotating.
 
 The nice part about these pieces is that they can be replaced with different sets that can be designed and fabricated.
 
-#### SECOND PART: DISK 
+#### SECOND PART: DISK
 
 The disk is a circular wooden piece, with 12 holes around the edge of it to fit each figure, and a hole in the middle that would allow the connection to the lower electronic part of the artifact.
 
@@ -47,9 +49,9 @@ The disk is a circular wooden piece, with 12 holes around the edge of it to fit 
 
 Finally, the circuit consists of a motor and a light (that has strong exposure and that can be manipulated into flashing on and off). These are pieced together and connected to a power source, all hidden inside the basic square box on which the disk is mounted.
 
-### HONEST DESIGN 
+### HONEST DESIGN
 
-For this project, we used CNC, a laser cutter, a 3d printer, and some electronic circuits. We assigned every component of the project to be made with the most efficient medium that it can be made with. For example, the disk has to be sturdy so it’s strictly done with the CNC. However, the figurines could be both laser cut, 3d printed or manually molded. 
+For this project, we used CNC, a laser cutter, a 3d printer, and some electronic circuits. We assigned every component of the project to be made with the most efficient medium that it can be made with. For example, the disk has to be sturdy so it’s strictly done with the CNC. However, the figurines could be both laser cut, 3d printed or manually molded.
 
 Finally, the whole artifact wouldn’t work without the electronic board, which connected the light source, the motor and a small rotating knob to be able to control the speed of the light flashes manually, all connected and manipulated through Arduino.
 
@@ -63,7 +65,7 @@ Initially, we would have preferred to 3d print more volumetric figures, but we w
 
 ### FUTURE OPPORTUNITIES
 
-This project joins our collaborative list of toys made for emergent contexts. Some potential future directions for it would definitely be creating more sets of figurines that way things can replaced and the artifact used to its fullest.  Another idea would be to experiment with different materials, maybe attempting to mold the figures out of biomaterials could be an idea.   We would also like to work on the packaging of the whole object and hopefully being able to produce it as an enjoyable toy, but more importantly helping parents build it.
+This project joins our collaborative list of toys made for emergent contexts. Some potential future directions for it would definitely be creating more sets of figurines that way things can replaced and the artifact used to its fullest.  Another idea would be to experiment with different materials, maybe attempting to mold the figures out of biomaterials could be an idea.  We would also like to work on the packaging of the whole object and hopefully being able to produce it as an enjoyable toy, but more importantly helping parents build it.
 
 ## REPLICABILITY
 
@@ -88,7 +90,7 @@ This project joins our collaborative list of toys made for emergent contexts. So
 Cutting the Disk with CNC.
 
 *step 2*
-Laser cut / 3d print / manually sculpt / mold and cast the design of the figures. 
+Laser cut / 3d print / manually sculpt / mold and cast the design of the figures.
 P.S: They have to be 12 pieces that make an animation when put together, 5 cm tall, with joints at the bottom that are 9mm (height) and 6mm (thickness).
 
 *step 3*
@@ -108,6 +110,6 @@ Find them here.
 
 The initial idea was to make a controllable lamp, which slowly turned into a flashing object/toy and then we discovered zoetropes and the possibility of them being in 3D. We tested several ways to produce the figurines, we tried 3d printing them, however they were too thin given our scale.
 
-We also had a hard time with the 3d printed piece, attempting different type of joints between the motor and the disk before we finally got it right. 
+We also had a hard time with the 3d printed piece, attempting different type of joints between the motor and the disk before we finally got it right.
 
 ### FINAL PRODUCT PHOTOS
