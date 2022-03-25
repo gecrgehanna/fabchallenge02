@@ -1,6 +1,6 @@
 # fabchallenge02 - ZOETROPE PUZZLE
 
-![](zoetrope diagram copy-02-min.png)
+<img src="/zoetrope diagram copy-02-min.png" width ="100%">
 
 ## IDEATION
 
