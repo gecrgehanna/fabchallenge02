@@ -71,7 +71,7 @@ Finally, the whole artifact wouldn’t work without the electronic board, which 
 
 Firstly, we tried to 3d print the little figurines that were to be inserted in the disk holes, however, we realized that it was a time consuming process that wouldn’t really allow us to experiment with other shapes and figures. Which is why we resorted to laser cutting as we could be more efficient with out experimentation.
 
-<img src="process2.png" width ="100%">
+<img src="process2.jpg" width ="100%">
 
 
 ### DESIGN BOUNDARIES
@@ -104,7 +104,7 @@ This project joins our collaborative list of toys made for emergent contexts. So
 *step 1*
 Cutting the Disk with CNC.
 
-<img src="process1.png" width ="100%">
+<img src="process1.jpg" width ="100%">
 
 *step 2*
 Laser cut / 3d print / manually sculpt / mold and cast the design of the figures.
