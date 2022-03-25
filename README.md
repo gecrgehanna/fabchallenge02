@@ -30,6 +30,7 @@ We had a more or less clear way to execute the artifact, taking into considerati
 
 ### DIAGRAM
 
+<img src="/zoetrope diagram copy-01-min.png" width ="100%">
 
 ### INTEGRATED DESIGN
 
