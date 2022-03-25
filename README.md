@@ -115,6 +115,8 @@ Find them here.
 
 The initial idea was to make a controllable lamp, which slowly turned into a flashing object/toy and then we discovered zoetropes and the possibility of them being in 3D. We tested several ways to produce the figurines, we tried 3d printing them, however they were too thin given our scale.
 
+<img src="/3d-errors.jpg" width ="100%">
+
 We also had a hard time with the 3d printed piece, attempting different type of joints between the motor and the disk before we finally got it right.
 
 ### FINAL PRODUCT PHOTOS
