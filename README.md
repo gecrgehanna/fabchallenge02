@@ -150,6 +150,6 @@ The electronical iterations involved:
 ### FINAL PRODUCT PHOTOS
 
 <img src="flower.gif" width ="100%">
-![image  1](https://user-images.githubusercontent.com/92102729/175807741-7320edd6-6e8e-4f1b-bd50-9f8016f5f768.jpeg)
+<img src="https://user-images.githubusercontent.com/92102729/175807741-7320edd6-6e8e-4f1b-bd50-9f8016f5f768.jpeg" width ="100%">
 
 
